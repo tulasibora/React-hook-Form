@@ -1,0 +1,19 @@
+.maindiv {
+  text-align: center;
+  margin-left: 30%;
+  display: grid;
+  width: 35%;
+  margin-top: 50px;
+}
+.Typography {
+  text-align: center;
+}
+.selectid {
+  width: 80%;
+}
+.dateid {
+  width: 80%;
+}
+.error {
+  color: rgb(247, 31, 31);
+}
